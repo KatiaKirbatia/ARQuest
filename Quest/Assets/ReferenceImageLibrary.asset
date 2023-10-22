@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4646133571951309356
+  m_GuidHigh: 14876710920849444001
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5465422031339639271
+      m_GuidHigh: 2260543181605362355
+    m_SerializedTextureGuid:
+      m_GuidLow: 2643004529649882887
+      m_GuidHigh: 10677130273123681019
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: one
+    m_Texture: {fileID: 2800000, guid: d1879707d69d24adfb421bde69c92c94, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4915660399744272153
+      m_GuidHigh: 10060560010722904488
+    m_SerializedTextureGuid:
+      m_GuidLow: 8384093242107071099
+      m_GuidHigh: 13653593495684243370
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: two
+    m_Texture: {fileID: 2800000, guid: 038b8a7b4862745aaadfd7c9f14e7bbd, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5143948732347161440
+      m_GuidHigh: 11372277365578141598
+    m_SerializedTextureGuid:
+      m_GuidLow: 3045804918016700000
+      m_GuidHigh: 12263723139385508072
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Rafflesia
+    m_Texture: {fileID: 2800000, guid: 8185ee60df6f2a44e8c0cf22387f31aa, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5143580899096374382
+      m_GuidHigh: 805532312889129898
+    m_SerializedTextureGuid:
+      m_GuidLow: 16430241910255274575
+      m_GuidHigh: 3143750354108030859
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: unitylogowhiteonblack
+    m_Texture: {fileID: 2800000, guid: 5a804a4ff1f7e4038b1f1e6f4ad8a02b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5508461810261196465
+      m_GuidHigh: 883552051991954569
+    m_SerializedTextureGuid:
+      m_GuidLow: 3477997399964180706
+      m_GuidHigh: 5634782796556020554
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: IsopLogo
+    m_Texture: {fileID: 2800000, guid: 4298e0e2543530444a2b345f19c5324e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4813544594328740721
+      m_GuidHigh: 7007739955719653782
+    m_SerializedTextureGuid:
+      m_GuidLow: 2914962171800038008
+      m_GuidHigh: 12131095562581650970
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Math1
+    m_Texture: {fileID: 2800000, guid: afd7aa7806a628741a2eff0f244f5aa8, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5402795160833484801
+      m_GuidHigh: 3673174235476492477
+    m_SerializedTextureGuid:
+      m_GuidLow: 0
+      m_GuidHigh: 0
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: 
+    m_Texture: {fileID: 0}
