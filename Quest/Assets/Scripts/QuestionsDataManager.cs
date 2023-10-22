@@ -4,13 +4,15 @@ using UnityEngine;
 
 public class QuestionsDataManager
 {
+    private string _mathTriQuestions = "questionsMathTri";
+    private string _testQuestions = "questions";
     private List<List<string>> _questions = new List<List<string>>();
     
     public List<List<string>> AllQuestions => _questions;
 
     public void InitQuestions()
     {
-        var csvFile = Resources.Load<TextAsset>("questions");
+        var csvFile = Resources.Load<TextAsset>(_mathTriQuestions);
 
         if (!csvFile)
         {

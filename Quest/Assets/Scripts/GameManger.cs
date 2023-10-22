@@ -134,7 +134,8 @@ public class GameManger : MonoBehaviour
       _questionsPanel.gameObject.SetActive(true);
       _questionsPanel.transform.position = trackedImage.transform.position + new Vector3(0,0.2f, 0.05f);
       _activeQuestion = _questionsData.GetQuestionData(trackedImage.referenceImage.name);
-      _questionsPanel.UpdateQuestions(_activeQuestion);
+      //_questionsPanel.UpdateQuestions(_activeQuestion);
+      _questionsPanel.UpdateMathTriQuestions(_activeQuestion[0], Int32.Parse(_activeQuestion[1]));
    }
 
    private void OnStartClicked()
